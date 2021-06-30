@@ -1,4 +1,4 @@
-Project 1: Titanic_Model
+Titanic_Model
 ========================
 #### Developing a model to predict survival onboard the Titanic
 
